@@ -67,8 +67,6 @@ I fix bugs at night and accidentally create new ones during the day! 💤💻
 
 <p align="center">
   <b>Hacktoberfest 2025 Contributor</b><br/>
-  Awarded on <b>22 September 2025 (UTC)</b><br/>
-  <sub>Badge ID: <code>cmfuth1we0008lf04do0k5qsk</code></sub>
 </p>
 
 
