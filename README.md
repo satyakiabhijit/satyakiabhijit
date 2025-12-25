@@ -95,10 +95,20 @@ I fix bugs at night and accidentally create new ones during the day! 💤💻
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=satyakiabhijit&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyakiabhijit&layout=compact&theme=github_dark&hide_border=true" height="165" />
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=satyakiabhijit&show_icons=true&theme=github_dark&hide_border=true&count_private=true"
+    alt="GitHub Stats"
+  />
 </p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyakiabhijit&layout=compact&theme=github_dark&hide_border=true"
+    alt="Top Languages"
+  />
+</p>
+
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=satyakiabhijit&theme=github-dark&hide_border=true" />
