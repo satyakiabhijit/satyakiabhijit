@@ -63,6 +63,13 @@ I fix bugs at night and accidentally create new ones during the day! 💤💻
     height="140"
     alt="Hacktoberfest 2025 Badge"
   />
+  <img 
+    src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbWcyejhoMW4wMDAwanUwNGJxOHUzdWw2IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0="
+    width="140"
+    height="140"
+    alt="Hacktoberfest 2025 Badge"
+  />
+  
 </p>
 
 <p align="center">
