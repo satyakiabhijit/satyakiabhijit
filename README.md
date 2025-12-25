@@ -16,7 +16,7 @@
 - 🌱 Currently exploring **Advanced Web Development & Cloud Technologies**
 - 💻 Skilled in **Frontend & MERN Stack Development**
 - 🤝 Interested in **collaborations, open-source & internships**
-- 📫 Reach me at: **satyakiabhijit@gmail.com**
+- 📫 Reach me at: abhijitsatyaki29@gmail.com**
 - ⚡ Fun fact: *I sometimes debug bugs in my sleep 😄*
 
 ---
@@ -27,7 +27,7 @@
 <a href="https://www.linkedin.com/in/abhijitsatyaki" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" height="35"/>
 </a>
-<a href="https://satyakiabhijit.42web.io" target="_blank">
+<a href="https://abhijitsatyaki.42web.io" target="_blank">
   <img src="https://skillicons.dev/icons?i=html" height="35"/>
 </a>
 <a href="https://github.com/satyakiabhijit" target="_blank">
