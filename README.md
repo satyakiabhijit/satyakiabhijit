@@ -35,7 +35,7 @@ Always happy to collaborate or brainstorm ideas!
 📧 **abhijitsatyaki29@gmail.com**
 
 🎉 **Fun Fact:**  
-I sometimes dream in code, turning my sleep into a debugging session! 💤💻
+I fix bugs at night and accidentally create new ones during the day! 💤💻
 
 ---
 
