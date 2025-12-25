@@ -1,81 +1,72 @@
-<h1 align="center">Hi 👋, I'm Abhijit Satyaki</h1>
-<h3 align="center">A Front-End & MERN Stack Developer from India 🇮🇳</h3>
+<h1 align="center">Hi 👋 I'm Abhijit Satyaki</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=UI/UX+Focused;MERN+Stack+Developer;Building+Responsive+Web+Apps;Exploring+AI+%26+Cloud&center=true&width=550&height=45">
+  <b>A passionate Developer from India, diving into Web Development, AI, and Cloud ☁️</b>
 </p>
 
 <p align="center">
-  <img src="https://illustrations.popsy.co/gray/working-from-home.svg" width="320"/>
+  <img src="https://komarev.com/ghpvc/?username=satyakiabhijit&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/satyakiabhijit?label=Followers&style=flat" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-I am a passionate **Front-End & MERN Stack Developer** skilled in building **responsive, user-centric web applications**. I love crafting elegant UI/UX and learning modern technologies. :contentReference[oaicite:1]{index=1}
-
-- 🔭 Working on **full-stack web projects**
-- 🌱 Exploring **UI/UX, AI, and cloud development**
-- 💻 Experience with **HTML, CSS, JavaScript, Python, React & Node**
-- 💡 Always learning and upskilling every day
+- 🌱 Currently exploring **Advanced Web Development & Cloud Technologies**
+- 💻 Skilled in **Frontend & MERN Stack Development**
+- 🤝 Interested in **collaborations, open-source & internships**
+- 📫 Reach me at: **satyakiabhijit@gmail.com**
+- ⚡ Fun fact: *I sometimes debug bugs in my sleep 😄*
 
 ---
 
-## 🌐 Find Me Online
+## 🌐 Connect with me
 
 <p align="left">
-<a href="https://abhijitsatyaki.42web.io" target="_blank">
-  <img src="https://skillicons.dev/icons?i=web" />
+<a href="https://www.linkedin.com/in/abhijitsatyaki" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="35"/>
 </a>
-<a href="https://linkedin.com/in/abhijitsatyaki" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
+<a href="https://satyakiabhijit.42web.io" target="_blank">
+  <img src="https://skillicons.dev/icons?i=html" height="35"/>
 </a>
-<a href="https://github.com/satyakibhijit" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" />
+<a href="https://github.com/satyakiabhijit" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" height="35"/>
 </a>
 </p>
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🏅 My Badges
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,bootstrap,git,github,vsco de,figma" />
+  <img src="https://img.shields.io/badge/Web-Developer-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MERN-Stack-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Frontend-Specialist-purple?style=for-the-badge" />
 </p>
 
 ---
 
-## 🏆 Achievements & Skills
+## 🛠️ Languages and Tools
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Front-End-Developer-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MERN+Stack-Developer-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/UI%2FUX-Enthusiast-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Responsive+Design-yellow?style=for-the-badge" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,bootstrap,git,github,vscode,figma" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=satyakibhijit&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=satyakibhijit&theme=tokyonight" width="48%" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=satyakiabhijit&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyakibhijit&layout=compact&theme=tokyonight" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyakiabhijit&layout=compact&theme=github_dark&hide_border=true" width="40%" />
 </p>
 
 ---
 
-## 🤝 Let’s Connect!
-
-Feel free to reach out — always open to collaborate & build something amazing! 😊
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=satyakibhijit&label=Profile%20Views&color=blueviolet&style=flat-square" />
+  ⭐️ From <b>Abhijit Satyaki</b>
 </p>
-
-<p align="center">⭐ From Abhijit Satyaki</p>
