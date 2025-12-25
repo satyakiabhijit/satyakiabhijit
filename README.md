@@ -58,15 +58,9 @@
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=satyakiabhijit&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=satyakiabhijit&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyakiabhijit&layout=compact&theme=github_dark&hide_border=true" height="165" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyakiabhijit&layout=compact&theme=github_dark&hide_border=true" width="40%" />
-</p>
-
----
-
-<p align="center">
   ⭐️ From <b>Abhijit Satyaki</b>
 </p>
