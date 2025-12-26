@@ -79,13 +79,7 @@ I fix bugs at night and accidentally create new ones during the day! 💤💻
 </p>
 
 <p align="center">
-  <b>Hacktoberfest</b><br/>
-</p>
-<p align ="center">
-<b>|</b>
-</p>
-<p align="center">
-  <b>Kaggle</b><br/>
+  <b>Hacktoberfest  |  Kaggle</b><br/>
 </p>
 
 ---
