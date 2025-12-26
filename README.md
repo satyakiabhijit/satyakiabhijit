@@ -73,15 +73,20 @@ I fix bugs at night and accidentally create new ones during the day! 💤💻
     src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F059c9b5e8bad980032971b42cb35cb10%2FBadge-44.svg?generation=1727468322667890&alt=media"
     width="140"
     height="140"
-    alt="Hacktoberfest 2025 Badge"
+    alt="Kaggle Badge"
   />
   
 </p>
 
 <p align="center">
-  <b>Hacktoberfest 2025 Contributor</b><br/>
+  <b>Hacktoberfest</b><br/>
 </p>
-
+<p align ="center">
+<b>|</b>
+</p>
+<p align="center">
+  <b>Kaggle</b><br/>
+</p>
 
 ---
 
